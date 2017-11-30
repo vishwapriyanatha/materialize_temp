@@ -50,3 +50,5 @@ install Bower materialize to your project folder
       &lt;script type="text/javascript" src="js/materialize.min.js"&gt;&lt;/script&gt;<br />
     &lt;/body&gt;<br />
   &lt;/html&gt;
+
+  for more read refer the http://materializecss.com/getting-started.html
