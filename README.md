@@ -32,23 +32,23 @@ install Bower materialize to your project folder
 
   One last thing to note is that you have to import jQuery before importing materialize.js!
 
-    `&lt;!DOCTYPE html&gt; <br />`
-  `&lt;html&gt;<br />`
-    `&lt;head&gt;<br />`
+    `<;!DOCTYPE html>; <br />`
+  `<;html>;<br />`
+    `<;head>;<br />`
       `Import Google Icon Font<br />`
-     `&lt;link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"&gt;<br />`
+     `<;link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">;<br />`
       `Import materialize.css<br />`
-      `&lt;link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/&gt;<br />`
+      `<;link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>;<br />`
 
      `Let browser know website is optimized for mobile<br />`
-      `&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"/&gt;<br />`
-    `&lt;/head&gt;<br />`
+      `<;meta name="viewport" content="width=device-width, initial-scale=1.0"/>;<br />`
+    `<;/head>;<br />`
 
-    `&lt;body&gt;<br />`
+    `<;body>;<br />`
       `Import jQuery before materialize.js<br />`
-      `&lt;script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"&gt;&lt;/script&gt;<br />`
-      `&lt;script type="text/javascript" src="js/materialize.min.js"&gt;&lt;/script&gt;<br />`
-    `&lt;/body&gt;<br />`
-  `&lt;/html&gt;`
+      `<;script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js">;<;/script>;<br />`
+      `<;script type="text/javascript" src="js/materialize.min.js">;<;/script>;<br />`
+    `<;/body>;<br />`
+  `<;/html>;`
 
   for more read refer the http://materializecss.com/getting-started.html
