@@ -32,7 +32,7 @@ install Bower materialize to your project folder
 
   One last thing to note is that you have to import jQuery before importing materialize.js!
 
-    &lt;!DOCTYPE html&gt;
+    &lt;!DOCTYPE html&gt; <br />
   &lt;html&gt;
     &lt;head&gt;
       Import Google Icon Font
